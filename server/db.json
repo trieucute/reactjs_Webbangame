@@ -1,0 +1,91 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "username": "tramne",
+      "name": "Trần Bích Trâm",
+      "email": "tram@gmail.com",
+      "phone": "0788302343",
+      "gender": "female",
+      "password": "12345",
+      "active": "1",
+      "activeCode": "iotfEhJ8h4",
+      "id": 2
+    },
+    {
+      "username": "trieucute",
+      "name": "Trần Bích Triệu",
+      "email": "trieutran989@gmail.com",
+      "phone": "0369540497",
+      "gender": "female",
+      "password": "12345",
+      "active": "1",
+      "activeCode": "9C6K0LUH82",
+      "id": 1
+    },
+    {
+      "username": "khang123",
+      "name": "Trần An Khang",
+      "email": "khang0801@gmail.com",
+      "phone": "0779468836",
+      "gender": "male",
+      "password": "12345",
+      "active": "1",
+      "activeCode": "30nKgG2bKM",
+      "id": 3
+    },
+    {
+      "username": "anhcute",
+      "name": "Trần Ngọc Ánh",
+      "email": "Anh@gmail.com",
+      "phone": "0934324221",
+      "gender": "female",
+      "password": "12345",
+      "active": "0",
+      "activeCode": "BKKMZkaKjX",
+      "id": 4
+    },
+    {
+      "username": "hehe",
+      "name": "hello",
+      "email": "hehe@gmail.com",
+      "phone": "0934324221",
+      "gender": "female",
+      "password": "12345",
+      "active": "1",
+      "activeCode": "V6WnwJB5ca",
+      "id": 5
+    },
+    {
+      "username": "hahas",
+      "name": "hahas",
+      "email": "has@gmail.com",
+      "phone": "0369540490",
+      "gender": "male",
+      "password": "12345678",
+      "active": "1",
+      "activeCode": "Nq1G8oCXEW",
+      "id": 7
+    },
+    {
+      "username": "trieucute123sss",
+      "name": "trieusss",
+      "email": "trieutran@gmail.com",
+      "phone": "0369540499",
+      "gender": "male",
+      "password": "12345678",
+      "active": "1",
+      "activeCode": "I564mu1UvZ",
+      "id": 9
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

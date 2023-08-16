@@ -2,37 +2,54 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.color-bg{
+  color: #A1CCD1;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.thu{
+  color: red;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.main-color{
+  background-color: #27374D;
+}
+.color-sidebar{
+  background-color: #1F6E8C;
+}
+.navbar-drop{
+  /* display: none; */
+}
+.navbar:hover .navbar-drop {
+  display: block;
+}
+.hover-but{
+  background-color: #0E2954;
+  color: #84A7A1;
+}
+.index-bg{
+  background-color: #474c5383;
+}
+.but-active:hover{
+color: #B31312;
+transition: all 0.2s;
+font-size: 17px;
+}
+.dropdown_img{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  /* position: relative; */
 }
-
-.App-link {
-  color: #61dafb;
+.down_drop{
+  position: relative;
+  
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.down_drop_name{
+  position: absolute;
+  display: none;
+ top: 40px;
+width: 300px;
+right: -150px;
+  font-size: 12px;
+}
+.down_drop:hover .down_drop_name{
+  display: block;
+  transition: all 0.2s linear;
+  
 }
